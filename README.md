@@ -4,11 +4,7 @@ Reactive trading system application built with Akka.NET, demonstrating the actor
 
 ## Stack
 
-- C# / .NET
-- Akka.NET (actor model)
-- CQRS (Command Query Responsibility Segregation)
-- Event Sourcing
-
+[![Stack](https://skillicons.dev/icons?i=dotnet,js,cs&theme=dark)](https://skillicons.dev)
 ## Structure
 
 - `Program.cs` -- Application entry point
