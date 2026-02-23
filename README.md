@@ -4,7 +4,7 @@ Reactive trading system application built with Akka.NET, demonstrating the actor
 
 ## Stack
 
-[![Stack](https://skillicons.dev/icons?i=dotnet,js,cs&theme=dark)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=cs,dotnet&theme=dark)](https://skillicons.dev)
 ## Structure
 
 - `Program.cs` -- Application entry point
